@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027735305150",
+    "project_id": "smart-inn-287712",
+    "storage_bucket": "smart-inn-287712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027735305150:android:c2a30d2240842e75ee97ef",
+        "android_client_info": {
+          "package_name": "com.ac.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027735305150-9s066nandpb70pc7lbgpi2dalbubvtq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhVMM2SUQuSivNP8AF0X8dMeXhXJ8b5Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027735305150-9s066nandpb70pc7lbgpi2dalbubvtq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
